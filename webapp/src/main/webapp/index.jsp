@@ -32,6 +32,4 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-Updated code
-code update for Poll SCM  
 </form>
